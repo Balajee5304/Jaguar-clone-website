@@ -5,6 +5,7 @@
 
 .body {
   padding: 10px;
+  flex-wrap: wrap;
 }
 
 .header-one__title {
